@@ -5,3 +5,11 @@ Answer: Git is helpful for version control and for contrlling large codebases wi
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: It could help in almost every possible field. One such example is in finance - using data science to predict economisc trends can help investors better choose where to place their money.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging simply merges multiple branches while rebasing tries to create a clean linear commit history.
+
+Q4: What skills do you hoep to improve during this course?
+
+Answer: I hope to improve on my analytical and data science skills.
