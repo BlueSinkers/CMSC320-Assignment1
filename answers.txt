@@ -1,7 +1,7 @@
 Q1: Why might be consider using git?
 
-Answer: Git is helpful for version control and managing large cosdebases with large amounts of contributors.
+Answer: Git is helpful for version control and for contrlling large codebases with a large amount of users.
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: It could help in almost every possible field. One such example is in finance - using data science to predict economics trends can help investors better choose where to place their money.
+Answer: It could help in almost every possible field. One such example is in finance - using data science to predict economisc trends can help investors better choose where to place their money.
